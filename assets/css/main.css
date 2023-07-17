@@ -81,7 +81,7 @@ h6 {
   width: 120px;
   height: 1px;
   display: inline-block;
-  background: #5bd9a9;
+  background: #004f71;
   margin: 4px 10px;
 }
 
@@ -135,7 +135,7 @@ h6 {
 }
 
 .page-header .cta-btn:hover {
-  background: #2cbc85;
+  background: #004f71;
 }
 
 /*--------------------------------------------------------------
@@ -162,7 +162,7 @@ h6 {
 }
 
 .scroll-top:hover {
-  background: rgba(39, 167, 118, 0.8);
+  background: #004f71;
   color: #fff;
 }
 
@@ -870,7 +870,7 @@ h6 {
 }
 
 .gallery-single .portfolio-info .btn-visit:hover {
-  background: #2cbc85;
+  background: #004f71;
 }
 
 .gallery-single .portfolio-description h2 {
@@ -1229,7 +1229,7 @@ h6 {
 }
 
 .hero .btn-get-started:hover {
-  background: #2cbc85;
+  background: #004f71;
 }
 
 @media (max-width: 768px) {
