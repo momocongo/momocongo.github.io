@@ -392,7 +392,7 @@ h6 {
   .navbar .active,
   .navbar .active:focus,
   .navbar li:hover>a {
-    color: #fff;
+    color: #FFCC00;
   }
 
   .navbar .dropdown ul {
@@ -1211,7 +1211,7 @@ h6 {
 .hero p {
   color: rgba(255, 255, 255, 0.6);
   margin-bottom: 30px;
-  font-size: 18px;
+  font-size: 18px;    
 }
 
 .hero .btn-get-started {
