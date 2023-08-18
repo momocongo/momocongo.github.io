@@ -20,8 +20,8 @@
 /* Colors */
 :root {
   --color-default: #fafafa;
-  --color-primary: #FFCC00;
-  --color-secondary: #161718;
+  --color-primary: #161718;
+  --color-secondary: #FFCC00;
 }
 
 /* Smooth scroll behavior */
@@ -213,7 +213,7 @@ h6 {
 #preloader .line:before {
   content: "";
   position: absolute;
-  background-color: #fff;
+  background-color: #FFCC00;
   left: 0;
   top: 50%;
   width: 1px;
@@ -1176,7 +1176,7 @@ h6 {
 .hero {
   width: 100%;
   min-height: 30vh;
-  background: #000;
+  background: #FFCC00;
   background-size: cover;
   position: relative;
   padding: 140px 0 60px 0;
@@ -1209,7 +1209,7 @@ h6 {
 }
 
 .hero p {
-  color: rgba(255, 255, 255, 0.6);
+  color: #004f71;
   margin-bottom: 30px;
   font-size: 18px;    
 }
