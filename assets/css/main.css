@@ -19,8 +19,8 @@
 
 /* Colors */
 :root {
-  --color-default: #fafafa;
-  --color-primary: #161718;
+  --color-default: #004f71;
+  --color-primary: #FFCC00;
   --color-secondary: #FFCC00;
 }
 
@@ -286,7 +286,7 @@ h6 {
   transition: all 0.5s;
   z-index: 997;
   padding: 30px 0;
-  background-color: #004f71;
+  background-color: #FFCC00;
 }
 
 .header .logo {
@@ -327,7 +327,7 @@ h6 {
 }
 
 .header .header-social-links a {
-  color: rgba(255, 255, 255, 0.5);
+  color: #004f71;
   padding-left: 15px;
   display: inline-block;
   line-height: 0px;
@@ -376,7 +376,7 @@ h6 {
     letter-spacing: 1px;
     font-size: 13px;
     font-weight: 400;
-    color: rgba(255, 255, 255, 0.5);
+    color: #004f71;
     white-space: nowrap;
     transition: 0.3s;
   }
@@ -392,7 +392,7 @@ h6 {
   .navbar .active,
   .navbar .active:focus,
   .navbar li:hover>a {
-    color: #FFCC00;
+    color: #fff;
   }
 
   .navbar .dropdown ul {
@@ -522,7 +522,7 @@ h6 {
   .navbar .active,
   .navbar .active:focus,
   .navbar li:hover>a {
-    color: #fff;
+    color: #0000;
   }
 
   .navbar .dropdown ul,
@@ -1176,7 +1176,7 @@ h6 {
 .hero {
   width: 100%;
   min-height: 30vh;
-  background: #FFCC00;
+  background: #004f71;
   background-size: cover;
   position: relative;
   padding: 140px 0 60px 0;
@@ -1209,7 +1209,7 @@ h6 {
 }
 
 .hero p {
-  color: #004f71;
+  color: #FFCC00;
   margin-bottom: 30px;
   font-size: 18px;    
 }
