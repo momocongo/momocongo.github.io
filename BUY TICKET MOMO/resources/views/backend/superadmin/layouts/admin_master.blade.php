@@ -58,6 +58,18 @@
              color: #ffcc00;
          }
      </style>
+
+     <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-MS7GRT3QKW">
+    </script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-MS7GRT3QKW');
+    </script>
+
 </head>
 
 <body>
